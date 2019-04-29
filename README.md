@@ -1,7 +1,14 @@
-## 1961 - Segurança no ASP.NET Core ##
-Neste treinamento vamos entender como ficou a autenticação e a autorização nas aplicações ASP.NET Core
+# 1961 - Segurança no ASP.NET Core #
+Repositório do curso Segurança no ASP.NET Core da plataforma https://balta.io.
 
-### Conteúdo Programático ###
+Autor: André Baltieri
+
+Link: https://balta.io/cursos/1961
+
+## Projeto construído com: ##
+* ASP.NET Core
+
+## Conteúdo Programático ##
 * Introdução
 * Autenticação e Autorização
 * Claims e Roles
@@ -9,7 +16,7 @@ Neste treinamento vamos entender como ficou a autenticação e a autorização n
 * Autenticação em Serviços
 * Utilizando o Identity
 
-### Assine o Site ###
-Faça este e outros treinamentos por apenas R$ 59,90 mensais! Cancele quando quiser e ainda desfrute de treinamentos mensais online, ao vivo e de graça!
+---
+balta.io - Develop Your Career
 
-http://assine.andrebaltieri.net/
+Conheça todos os cursos da plataforma em https://balta.io/cursos
